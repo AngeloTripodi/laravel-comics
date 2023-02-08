@@ -2,7 +2,15 @@
 
 @section('main-content')
     <h1>
-        ciaooaaa
+        ciaooaaassss
     </h1>
-    <p>aaasdfds</p>
+    <p class="text-bg-info">aaasdssasdasdsdfsdfsfds</p>
+    <div>
+        <div class="container">
+            <div class="row">
+                <div class="col-6">aa</div>
+                <div class="col-6">bb</div>
+            </div>
+        </div>
+    </div>
 @endsection
